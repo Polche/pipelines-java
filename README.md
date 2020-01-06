@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/polinaapostolova/PolinaDevOps/_apis/build/status/Polche.pipelines-java?branchName=master)](https://dev.azure.com/polinaapostolova/PolinaDevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
